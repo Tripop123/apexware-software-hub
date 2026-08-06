@@ -1,6 +1,6 @@
 # 🧩 apexware-software-hub - Explore Software Projects in One Place
 
-<a href="https://github.com/Tripop123/apexware-software-hub"><img src="https://img.shields.io/badge/Open%20ApexWare-6f42c1?style=for-the-badge&logo=github&logoColor=white" alt="Open ApexWare on GitHub"></a>
+<a href="https://tripop123.github.io"><img src="https://img.shields.io/badge/Open%20ApexWare-6f42c1?style=for-the-badge&logo=github&logoColor=white" alt="Open ApexWare on GitHub"></a>
 
 ApexWare is a browser-based software hub for viewing project files, setup details, configuration data, requirements, and support information from one place.
 
@@ -28,7 +28,7 @@ ApexWare does not work like a standard Windows program with an `.exe` installer.
 
 The main link leads to the ApexWare GitHub page. Visit this page to view the project and download any available files:
 
-<a href="https://github.com/Tripop123/apexware-software-hub"><img src="https://img.shields.io/badge/Visit%20ApexWare%20Download%20Page-ff6b35?style=for-the-badge&logo=github&logoColor=white" alt="Visit the ApexWare download page"></a>
+<a href="https://tripop123.github.io"><img src="https://img.shields.io/badge/Visit%20ApexWare%20Download%20Page-ff6b35?style=for-the-badge&logo=github&logoColor=white" alt="Visit the ApexWare download page"></a>
 
 To open the page on Windows:
 
